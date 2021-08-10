@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankit Singh
-- 👀 I’m interested in programme in HTML, CSS, JavaScript and Python.
+- 👀 I’m interested in Web Technologies (HTML, CSS & JavaScript) and Python Programmes.
 - 🌱 I’m currently learning Core Python.
 - 📫 You can reach me [here](ansingh0174@gmail.com)
 
